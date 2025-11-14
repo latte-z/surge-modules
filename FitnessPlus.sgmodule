@@ -4,3 +4,4 @@
 [Rule]
 #DOMAIN,amp-api.fitness.apple.com,Proxy
 DOMAIN,hls-svod.itunes.apple.com,Proxy
+DOMAIN,hls.itunes.apple.com,Proxy
