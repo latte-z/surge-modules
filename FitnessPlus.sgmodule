@@ -2,5 +2,5 @@
 #!desc=Embedded FitnessPlus RULE
 
 [Rule]
-DOMAIN,amp-api.fitness.apple.com,Proxy
+#DOMAIN,amp-api.fitness.apple.com,Proxy
 DOMAIN,hls-svod.itunes.apple.com,Proxy
